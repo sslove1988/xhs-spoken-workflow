@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "小红书口播流水线"
+  short_description: "把原始文案串联诊断、脚本、去AI味、开头和标题。"
+  default_prompt: "用 xhs-spoken-workflow 处理这篇原始文案，输出完整小红书口播稿、5个标题和可查询流程记录。"
